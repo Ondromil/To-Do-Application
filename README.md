@@ -1,2 +1,2 @@
-# To-Do-Application
+# To-Do Application
 Console application for managing tasks.
